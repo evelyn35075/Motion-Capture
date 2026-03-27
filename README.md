@@ -11,6 +11,3 @@
 * Python
 * Jupyter Notebook 
 * 電腦視覺模型 (e.g., MediaPipe / OpenCV)
-
-## 🎬 畫面截圖 (Demo)
-![Demo Image](assets/tutorial_tsmc.png)
