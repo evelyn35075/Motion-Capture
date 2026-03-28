@@ -11,3 +11,6 @@
 * Python
 * Jupyter Notebook 
 * 電腦視覺模型 (e.g., MediaPipe / OpenCV)
+
+## 作品DEMO
+[點此觀看 YouTube 作品演示](https://youtu.be/5dwRlpw3P0g)
